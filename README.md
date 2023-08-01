@@ -6,8 +6,8 @@ A repo for my Udacity lesson exercises on Supervised Learning.
 ### Clone this repository
 
 ``` bash
-$ git git@github.com:fab7/LESSONS-Supervised-Learning.git
-$ cd LESSONS-Supervised-Learning.git
+$ git clone git git@github.com:fab7/LESSONS-Supervised-Learning.git
+$ cd LESSONS-Supervised-Learning
 ```
 
 ### Create and activate a Virtual Environemnt
